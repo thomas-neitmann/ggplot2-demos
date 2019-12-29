@@ -1,0 +1,253 @@
+company,year,revenue
+Johnson & Johnson,2019,61.37
+Johnson & Johnson,2018,81.6
+Johnson & Johnson,2017,76.5
+Johnson & Johnson,2016,71.89
+Johnson & Johnson,2015,70.1
+Johnson & Johnson,2014,74.3
+Johnson & Johnson,2013,71.31
+Johnson & Johnson,2012,67.2
+Johnson & Johnson,2011,65
+Roche,2019,46.29
+Roche,2018,56.86
+Roche,2017,57.37
+Roche,2016,50.11
+Roche,2015,47.7
+Roche,2014,49.86
+Roche,2013,48.53
+Roche,2012,47.8
+Roche,2011,45.21
+Pfizer,2019,39.06
+Pfizer,2018,53.6
+Pfizer,2017,52.54
+Pfizer,2016,52.82
+Pfizer,2015,48.85
+Pfizer,2014,49.61
+Pfizer,2013,51.58
+Pfizer,2012,58.99
+Pfizer,2011,65.26
+Novartis,2019,35.04
+Novartis,2018,51.9
+Novartis,2017,49.11
+Novartis,2016,48.52
+Novartis,2015,49.41
+Novartis,2014,58
+Novartis,2013,57.36
+Novartis,2012,56.67
+Novartis,2011,58.57
+Bayer,2019,38.24
+Bayer,2018,45.06
+Bayer,2017,37.94
+Bayer,2016,25.27
+Bayer,2015,24.09
+Bayer,2014,25.47
+Bayer,2013,24.17
+Bayer,2012,24.3
+Bayer,2011,23.11
+GlaxoSmithKline,2019,32.22
+GlaxoSmithKline,2018,43.14
+GlaxoSmithKline,2017,42.05
+GlaxoSmithKline,2016,34.79
+GlaxoSmithKline,2015,29.84
+GlaxoSmithKline,2014,37.96
+GlaxoSmithKline,2013,41.61
+GlaxoSmithKline,2012,39.93
+GlaxoSmithKline,2011,41.39
+Merck & Co.,2019,34.98
+Merck & Co.,2018,42.3
+Merck & Co.,2017,40.1
+Merck & Co.,2016,39.8
+Merck & Co.,2015,39.5
+Merck & Co.,2014,42.24
+Merck & Co.,2013,44.03
+Merck & Co.,2012,47.27
+Merck & Co.,2011,48.05
+Sanofi,2019,29.57
+Sanofi,2018,39.07
+Sanofi,2017,42.91
+Sanofi,2016,36.57
+Sanofi,2015,36.73
+Sanofi,2014,43.07
+Sanofi,2013,42.08
+Sanofi,2012,46.41
+Sanofi,2011,44.34
+AbbVie,2019,24.56
+AbbVie,2018,32.75
+AbbVie,2017,28.22
+AbbVie,2016,25.56
+AbbVie,2015,22.82
+AbbVie,2014,19.96
+AbbVie,2013,18.79
+AbbVie,2012,NA
+AbbVie,2011,NA
+Abbott Laboratories,2019,23.62
+Abbott Laboratories,2018,30.6
+Abbott Laboratories,2017,27.39
+Abbott Laboratories,2016,20.85
+Abbott Laboratories,2015,20.41
+Abbott Laboratories,2014,20.25
+Abbott Laboratories,2013,21.85
+Abbott Laboratories,2012,39.87
+Abbott Laboratories,2011,38.85
+Eli Lilly & Co,2019,16.21
+Eli Lilly & Co,2018,24.56
+Eli Lilly & Co,2017,22.9
+Eli Lilly & Co,2016,21.22
+Eli Lilly & Co,2015,20
+Eli Lilly & Co,2014,19.62
+Eli Lilly & Co,2013,23.11
+Eli Lilly & Co,2012,22.6
+Eli Lilly & Co,2011,24.29
+Amgen,2019,17.17
+Amgen,2018,23.7
+Amgen,2017,22.8
+Amgen,2016,22.99
+Amgen,2015,21.66
+Amgen,2014,20.06
+Amgen,2013,18.68
+Amgen,2012,17.3
+Amgen,2011,15.58
+Bristol-Myers Squibb,2019,18.32
+Bristol-Myers Squibb,2018,22.56
+Bristol-Myers Squibb,2017,20.8
+Bristol-Myers Squibb,2016,19.43
+Bristol-Myers Squibb,2015,16.56
+Bristol-Myers Squibb,2014,15.88
+Bristol-Myers Squibb,2013,16.39
+Bristol-Myers Squibb,2012,17.62
+Bristol-Myers Squibb,2011,21.24
+Gilead Sciences,2019,16.32
+Gilead Sciences,2018,22.13
+Gilead Sciences,2017,25.7
+Gilead Sciences,2016,30.39
+Gilead Sciences,2015,32.15
+Gilead Sciences,2014,24.47
+Gilead Sciences,2013,10.8
+Gilead Sciences,2012,9.7
+Gilead Sciences,2011,8.39
+AstraZeneca,2019,17.72
+AstraZeneca,2018,22.09
+AstraZeneca,2017,22.47
+AstraZeneca,2016,23
+AstraZeneca,2015,24.71
+AstraZeneca,2014,26.1
+AstraZeneca,2013,25.71
+AstraZeneca,2012,27.97
+AstraZeneca,2011,33.59
+/ Teva Pharmaceutical Industries,2019,4.3
+/ Teva Pharmaceutical Industries,2018,18.9
+/ Teva Pharmaceutical Industries,2017,22.4
+/ Teva Pharmaceutical Industries,2016,21.9
+/ Teva Pharmaceutical Industries,2015,20
+/ Teva Pharmaceutical Industries,2014,20.27
+/ Teva Pharmaceutical Industries,2013,20.31
+/ Teva Pharmaceutical Industries,2012,18.31
+/ Teva Pharmaceutical Industries,2011,16.12
+Boehringer Ingelheim,2019,NA
+Boehringer Ingelheim,2018,19.48
+Boehringer Ingelheim,2017,21.67
+Boehringer Ingelheim,2016,17.54
+Boehringer Ingelheim,2015,16.41
+Boehringer Ingelheim,2014,17.7
+Boehringer Ingelheim,2013,18.68
+Boehringer Ingelheim,2012,18.89
+Boehringer Ingelheim,2011,18.34
+Takeda Pharmaceutical,2019,NA
+Takeda Pharmaceutical,2018,19.1
+Takeda Pharmaceutical,2017,16.7
+Takeda Pharmaceutical,2016,15.96
+Takeda Pharmaceutical,2015,14.93
+Takeda Pharmaceutical,2014,16.84
+Takeda Pharmaceutical,2013,17.36
+Takeda Pharmaceutical,2012,18.91
+Takeda Pharmaceutical,2011,17.8
+Merck Group,2019,8.66
+Merck Group,2018,16.48
+Merck Group,2017,18.7
+Merck Group,2016,16.62
+Merck Group,2015,14.25
+Merck Group,2014,15.29
+Merck Group,2013,14.73
+Merck Group,2012,14.36
+Merck Group,2011,14.31
+Novo Nordisk,2019,13.39
+Novo Nordisk,2018,16.99
+Novo Nordisk,2017,18.77
+Novo Nordisk,2016,16.61
+Novo Nordisk,2015,16.06
+Novo Nordisk,2014,15.83
+Novo Nordisk,2013,14.88
+Novo Nordisk,2012,13.48
+Novo Nordisk,2011,11.56
+Allergan plc,2019,7.69
+Allergan plc,2018,15.78
+Allergan plc,2017,15.94
+Allergan plc,2016,14.57
+Allergan plc,2015,15.07
+Allergan plc,2014,12.88
+Allergan plc,2013,8.68
+Allergan plc,2012,5.91
+Allergan plc,2011,4.58
+Danaher Corporation,2019,15.07
+Danaher Corporation,2018,19.89
+Danaher Corporation,2017,18.33
+Danaher Corporation,2016,16.88
+Danaher Corporation,2015,20.56
+Danaher Corporation,2014,19.91
+Danaher Corporation,2013,19.12
+Danaher Corporation,2012,18.26
+Danaher Corporation,2011,16.09
+Celgene,2019,12.95
+Celgene,2018,15.28
+Celgene,2017,13
+Celgene,2016,11.23
+Celgene,2015,9.26
+Celgene,2014,7.67
+Celgene,2013,6.49
+Celgene,2012,5.51
+Celgene,2011,4.84
+Biogen,2019,10.71
+Biogen,2018,13.45
+Biogen,2017,12.3
+Biogen,2016,11.4
+Biogen,2015,10.8
+Biogen,2014,9.7
+Biogen,2013,6.9
+Biogen,2012,5.5
+Biogen,2011,5
+Astellas Pharma,2019,NA
+Astellas Pharma,2018,12.27
+Astellas Pharma,2017,12.07
+Astellas Pharma,2016,12.63
+Astellas Pharma,2015,11.48
+Astellas Pharma,2014,10.49
+Astellas Pharma,2013,9.25
+Astellas Pharma,2012,8.92
+Astellas Pharma,2011,8.78
+Labcorp,2019,8.6
+Labcorp,2018,11.33
+Labcorp,2017,10.31
+Labcorp,2016,9.55
+Labcorp,2015,8.51
+Labcorp,2014,6.01
+Labcorp,2013,5.81
+Labcorp,2012,5.67
+Labcorp,2011,5.54
+Baxter International,2019,8.28
+Baxter International,2018,11.13
+Baxter International,2017,10.56
+Baxter International,2016,10.16
+Baxter International,2015,9.97
+Baxter International,2014,10.72
+Baxter International,2013,14.97
+Baxter International,2012,14.19
+Baxter International,2011,13.89
+Mylan,2019,5.35
+Mylan,2018,11.43
+Mylan,2017,11.91
+Mylan,2016,11.08
+Mylan,2015,9.43
+Mylan,2014,7.72
+Mylan,2013,6.91
+Mylan,2012,6.8
+Mylan,2011,6.13
