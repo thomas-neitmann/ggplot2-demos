@@ -1,8 +1,8 @@
-How to get move ticks closer to the axis?
-=========================================
+How to move axis ticks closer to the axis?
+==========================================
 
 To answer this question let’s start off by loading some packages and
-preparing userRs favorite dataset `mtcars` for plotting.
+preparing userR’s favorite dataset `mtcars` for plotting.
 
     library(dplyr)
     library(ggplot2)
